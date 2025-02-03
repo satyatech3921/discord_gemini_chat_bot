@@ -27,13 +27,3 @@ Put prompt into `call_api.py` (can be skipped) [Tutorial](docs/zh/q7.md)
 Put history into `call_api.py` (can be skipped) [Tutorial](docs/zh/q3.md)
 
 Execute `main.py`
-
-# introduce
-
-- ### [Principles of operation](docs/zh/principles.md)
-
-- ### [Commands](docs/zh/commands.md)
-
-- ### [File description](docs/zh/files.md)
-
-- ### [Update log](docs/zh/log.md)
