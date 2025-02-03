@@ -13,11 +13,3 @@ This is a Chat bot that uses the Gemini model API developed by Google to connect
 - Can be used in DM channel
 
 - Ability to easily understand website content through crawlers
-
-# Preparatory work
-
-Fill in the required robot settings in `config.json`
-
-```
-pip install -U -r requirements.txt
-```
