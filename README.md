@@ -53,9 +53,3 @@ Execute `main.py`
 - ### [Error:No such file or directory: 'config.json/channel.json'](docs/zh/q5.md)
 
 - ### [Selection of different Gemini models](docs/zh/q6.md)
-
-# References
-
-- ### [Echoshard/Gemini_Discordbot](https://github.com/Echoshard/Gemini_Discordbot)
-
-- ### [peter995peter/discord-gemini-ai](https://github.com/peter995peter/discord-gemini-ai)
