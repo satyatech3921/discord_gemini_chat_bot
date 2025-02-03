@@ -7,5 +7,3 @@ This is a Chat bot that uses the Gemini model API developed by Google to connect
 - The channel has two modes: black and white list (please see **FAQ**)
 
 - Text chat has short-term memory function (the upper limit of the number of memorized sentences can be customized)
-
-- Able to perform image recognition
