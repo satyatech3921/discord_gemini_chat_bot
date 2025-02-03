@@ -21,9 +21,3 @@ Fill in the required robot settings in `config.json`
 ```
 pip install -U -r requirements.txt
 ```
-
-Put prompt into `call_api.py` (can be skipped) [Tutorial](docs/zh/q7.md)
-
-Put history into `call_api.py` (can be skipped) [Tutorial](docs/zh/q3.md)
-
-Execute `main.py`
